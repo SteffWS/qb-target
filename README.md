@@ -9,6 +9,9 @@ qb-target is a targeting solution that allows interaction with any predefined en
 
 All that I edited was the `app.js`
 
+## Installation
+1. Drag and drop the `css, js & index.html` folder/files into your qb-target `html` folder
+
 ## Requirements
 - [PolyZone](https://github.com/mkafrin/PolyZone)
 - [qb-target](https://github.com/nemaDev) by nemaDev
