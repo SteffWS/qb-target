@@ -7,8 +7,6 @@ qb-target is a targeting solution that allows interaction with any predefined en
 
 - Please mind that **I ONLY FIXED** the Icon, the rest of the code was from [qb-target](https://github.com/nemaDev/qb-target?tab=readme-ov-file)
 
-All that I edited was the `app.js`
-
 ## Installation
 1. Drag and drop the `css, js & index.html` folder/files into your qb-target `html` folder
 
