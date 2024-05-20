@@ -4,7 +4,9 @@
 
 ## Overview
 qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
-Please mind that I only fixed the Icon, the rest of the code was from [qb-target](https://github.com/qbcore-framework/qb-target)
+
+- Please mind that I only fixed the Icon, the rest of the code was from [qb-target](https://github.com/qbcore-framework/qb-target)
+
 All that I edited was the `app.js`
 
 ## Requirements
