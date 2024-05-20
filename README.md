@@ -21,7 +21,7 @@ Credit to ms-peds for their excellent ped spawner integrated into the target.
 
 Credit to [qb-target](https://github.com/qbcore-framework/qb-target) for the great work and updates.
 
-Additional thanks to [nemaDev](https://github.com/nemaDev) for his contributions. This repository builds upon his work with!
+Additional thanks to [nemaDev](https://github.com/nemaDev) for his contributions. This repository builds upon his work!
 
 ## Contact
 For any issues, suggestions, or custom requests, join our Discord community.
