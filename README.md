@@ -20,6 +20,3 @@ qb-target is a targeting solution that allows interaction with any predefined en
 - [qb-target](https://github.com/nemaDev/qb-target) by nemaDev
 
 - If you are already using a different target script that you prefer, you might be able to simply replace the HTML folder in that script with the files from this repository. However, this approach hasn't been fully tested, so results may vary.
-
-## Acknowledgments
-- Additional thanks to [nemaDev](https://github.com/nemaDev). This repository builds upon his work!
