@@ -5,14 +5,14 @@
 ## Overview
 qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
 
-- Please mind that **I ONLY FIXED** the Icon, the rest of the code needs to be installed from: [qb-target](https://github.com/nemaDev/qb-target?tab=readme-ov-file)
-
 ## Installation
 1. Drag and drop the `css, js & index.html` folder/files into your qb-target `html` folder
 
 ## Requirements
 - [PolyZone](https://github.com/mkafrin/PolyZone) by mkafrin
 - [qb-target](https://github.com/nemaDev/qb-target) by nemaDev
+
+- If you are already using a different target script that you prefer, you might be able to simply replace the HTML folder in that script with the files from this repository. However, this approach hasn't been fully tested, so results may vary.
 
 ## Acknowledgments
 - Additional thanks to [nemaDev](https://github.com/nemaDev). This repository builds upon his work!
