@@ -8,8 +8,6 @@ qb-target is a targeting solution that allows interaction with any predefined en
 ## Installation
 1. Drag and drop the `css, js & index.html` folder/files into your qb-target `html` folder
 
-**Or**
-
 2. Just save the icons yourself, and try get it working with whatever target you use
    
 ![normaleye](https://github.com/SteffWS/qb-target/assets/84989476/1c3f3b5c-def3-4bc7-8f08-1496c4af7f42)
