@@ -16,10 +16,3 @@ qb-target is a targeting solution that allows interaction with any predefined en
 
 ## Acknowledgments
 - Additional thanks to [nemaDev](https://github.com/nemaDev). This repository builds upon his work!
-
-## Contact
-For any issues, suggestions, or custom requests, join our Discord community.
-
-- Our Discord: https://discord.gg/SyNGm3eXmP
-
-- Project Link: https://github.com/SteffWS/qb-target
